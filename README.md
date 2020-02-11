@@ -11,14 +11,15 @@ A note taker application is able to create, save, and delete a user notes. This 
 * Node
 * api
 
+## Illustration/Image 
+![alt text](./NoteTakerImage1.png "Note Taker Image 1")
+![alt text](./NoteTakerImage2.png "Note Taker Image 2")
+ 
  ## Launch
-
 To launch this application click or copy and paste the following link in your browser.https://zfrakes.github.io/Note-Taker/.
 
 ## Author
-
 This application was created by Zoey Frakes. To contact please email at zfrakes811@gmail.com
 
 ## License
-
 The Note Taker Application is free software; you can redistribute it and/or modify it. Copyright © 2020 Zoey Frakes. All Rights Reserved
