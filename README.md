@@ -10,10 +10,6 @@ A note taker application is able to create, save, and delete a user notes. This 
 * JavaScript
 * Node
 * api
-
-## Illustration/Image 
-![alt text](../NoteTakerImage1.png "Note Taker Image 1")
-![alt text](../NoteTakerImage2.png "Note Taker Image 2")
  
  ## Launch
 To launch this application click or copy and paste the following link in your browser.
