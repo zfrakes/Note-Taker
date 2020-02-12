@@ -11,10 +11,11 @@ A note taker application is able to create, save, and delete a user notes. This 
 * Node
 * api
  
- ## Launch
-To launch this application click or copy and paste the following link in your browser.
+## Launch
+To launch this application click or copy and paste the following links in your browser.
 
 * http://localhost:3000/
+
 * http://localhost:3000/notes
 
 ## Author
