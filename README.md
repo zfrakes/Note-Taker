@@ -12,11 +12,10 @@ A note taker application is able to create, save, and delete a user notes. This 
 * api
  
 ## Launch
-To launch this application click or copy and paste the following links in your browser.
+To launch this application run node app.js in your terminal. Then copy and paste the following link in your browser.
 
 * http://localhost:3000/
 
-* http://localhost:3000/notes
 
 ## Author
 This application was created by Zoey Frakes. To contact please email at zfrakes811@gmail.com
