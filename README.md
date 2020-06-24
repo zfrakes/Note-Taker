@@ -7,12 +7,13 @@ A note taker application is able to create, save, and delete a user notes. This 
 * CSS
 * db.json
 * JavaScript
-* Node
+* Node.Js
 * Bootstrap
+* jQuery
 
  
 ## Launch
-To launch this application run node server.js in your terminal or copy and paste the following link in your browser.
+To launch this application clone repo onto your computer and then run node server.js in your terminal. You can also copy and paste the following link in your browser.
 
 https://safe-lowlands-48369.herokuapp.com/
 
