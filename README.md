@@ -22,4 +22,4 @@ https://safe-lowlands-48369.herokuapp.com/
 This application was created by Zoey Frakes. To contact please email at zfrakes811@gmail.com
 
 ## License
-The Note Taker Application is free software; you can redistribute it and/or modify it. Copyright © 2020 Zoey Frakes. All Rights Reserved
+The Note Taker Application is free software; you can redistribute it and/or modify it. Copyright © 2020 Zoey Frakes. All Rights Reserved.
